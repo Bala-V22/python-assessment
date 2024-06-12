@@ -1,8 +1,10 @@
 # python-assessment
 
-# Sample API Requests and Responses
+# Sample API Requests
 
 This directory contains sample API requests for the Data Pusher Django application. These samples demonstrate how to interact with the various endpoints of the API.
+
+I am accessing the endpoint using Django REST framework views and sending requests via Postman with the incoming_data.json request. All requests are working correctly in Postman. However, I am using the Django REST framework interface for easier reference and management
 
 ## Files in core/sample Api
 
